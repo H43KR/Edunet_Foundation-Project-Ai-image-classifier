@@ -9,7 +9,9 @@ An AI-powered web application that classifies uploaded images using a pre-traine
 
 > Upload an image and let the AI tell you what's in it!
 
-![App Screenshot](./3955f9e1-e1fd-443d-99a5-df0eed5f8580.png)
+![App Screenshot]
+<img width="959" alt="Screenshot 2025-05-14 214006" src="https://github.com/user-attachments/assets/351d692b-0889-46a6-9fc8-f7e2671a0cd7" />
+
 
 ---
 
